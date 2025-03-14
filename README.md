@@ -1,6 +1,9 @@
 # Mini-Shell
-Developed a lightweight Unix shell in C with support for built-in commands, process management and environment variables. 
-Implemented command execution, including piping, sequential, parallel, and conditional execution. Added I/O redirection for standard input/output and error streams. 
+I developed a simple implementation of a Unix-like shell, designed to mimic the behavior of Bash with minimal functionalities. It allows users to interact with the file system, run executables, redirect input and output, pipe commands, and more.
 <br>
 Ensured proper operator precedence and efficient command parsing, gaining hands-on experience with system calls, file descriptors, and process synchronization.
 </br>
+<h2>
+  Features
+</h2>
+
