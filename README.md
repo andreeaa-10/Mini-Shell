@@ -6,4 +6,11 @@ I ensured proper operator precedence and efficient command parsing, gaining hand
 <h2>
   Features
 </h2>
+<ul>
+  <li>Changing the Current Directory</li>
+  <li>Environment Variables</li>
+  <li>Operators</li>
+  <li>Operator Precedence</li>
+  <li>I/O Redirection</li>
+</ul>
 
